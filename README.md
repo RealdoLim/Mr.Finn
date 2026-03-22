@@ -2,6 +2,9 @@
 
 Mr.Finn is a Flutter-based personal finance tracker focused on fast local transaction logging, debt tracking, and Android notification-assisted finance capture. The app is designed for personal daily use, with support for manual transactions, debt management, notification review, budget tracking, and dashboard insights.
 
+## Youtube Video Demo Link
+https://youtube.com/shorts/ZV6RjWcW7Lw?feature=share
+
 ## Features
 
 - Manual income and expense tracking
@@ -48,9 +51,22 @@ Mr.Finn is currently intended for Android personal use and local finance trackin
 - Notification parsing is focused on Maybank/MAE transaction patterns and may continue to improve over time.
 - Android background and notification-listener behavior can vary by device/OS restrictions.
 
+## Future Improvements
+- More notification parsing coverage
+- Export / backup
+- Smarter categorization suggestions
+- More analytics and charts
+- Backup / restore support
+
+## Author
+
+Built by Realdo Aginda Lim as a personal finance-tracking Flutter project.
+
 ## Installation
 
 ### Run in development
 ```bash
 flutter pub get
 flutter run
+
+
